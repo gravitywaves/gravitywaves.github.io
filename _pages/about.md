@@ -1,3 +1,4 @@
+---
 defaults:
   # _pages
   - scope:
@@ -9,5 +10,5 @@ defaults:
 permalink: /about/
 image:
 feature: ao1-PNG--1-.png
-  
+---
       This is a test page
