@@ -4,4 +4,4 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/docs/navigation/
 
   - title: "About"
-    url: /_pages/about.html
+    url: /pages/about.html
