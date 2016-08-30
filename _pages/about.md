@@ -6,4 +6,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+image:
+  feature: 
+  
       This is a test page
