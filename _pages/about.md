@@ -7,6 +7,6 @@ defaults:
       layout: single
       author_profile: true
 image:
-  feature: 
+feature: ao1-PNG--1-.png
   
       This is a test page
